@@ -4,26 +4,19 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Awards
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+- Second prize in the poster category on Symposium of Natural Language, Dialogue and Speech, New York Academy of Sciences
+- Honor Graduation from Harbin Institute of Technology (top 1%)
+- Top 10 College Students of Harbin Institute of Technology(top 0.1%)
+- National Scholarship (top 2%) (2013-2015)
 
-## Features
+## Extracurriculars
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- Group championship in college tennis league at Weihai
+- Excellent debater of campus debate competition
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Contact
+
+Email: ruolinsu [AT] gatech [DOT] edu
+Linkedin: [link](https://www.linkedin.com/in/ruolin-su-986b20183/)
