@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Awards
 
-- Second prize in the poster category on Symposium of Natural Language, Dialogue and Speech, New York Academy of Sciences
+- Second prize in the poster category at Symposium of Natural Language, Dialogue and Speech, New York Academy of Sciences
 
 - Honor Graduation from Harbin Institute of Technology (top 1%)
 
@@ -16,13 +16,15 @@ permalink: /about/
 
 ## Extracurriculars
 
-- Group championship in college tennis league at Weihai
+- Group championship of college tennis league at Weihai
 
 - Excellent debater of campus debate competition
 
 ## Contact
 
 - Email: ruolinsu [AT] gatech [DOT] edu
+
+- Address: Centergy One, 75 5th St NW, Atlanta, GA, US 30308
 
 - Linkedin: [link](https://www.linkedin.com/in/ruolin-su-986b20183/)
 
