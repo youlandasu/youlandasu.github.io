@@ -26,5 +26,3 @@ permalink: /about/
 
 - Address: Centergy One, 75 5th St NW, Atlanta, GA, US 30308
 
-- Linkedin: [link](https://www.linkedin.com/in/ruolin-su-986b20183/)
-
