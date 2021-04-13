@@ -10,7 +10,7 @@ We incorporate dialogue acts to predict categorical and non-categorical slots fo
 
 ## Factural Correction for Knowledge-Driven Dialogues
 
-Factural errors undermine the quality of ``natural dialogue generation (NLG)`` significantly. To correct these factual errors with grounded knowledge, we implement segmentation and part-of-speech tagging to extract information from customer service conversations in mandarin, and fill structured information into designed semantic frames to automate customer service for express delivery. This work is done during the summer internship at Tencen AI Lab supervised by Dr. Kun Xu.
+Factural errors undermine the quality of ``natural dialogue generation (NLG)`` significantly. We propose a transformer-based model for correcting factual errors of knowledge-driven dialogue generation by masking and rewriting. We leverage ``semantic role labeling (SRL)`` and ``named entity recognition (NER)`` to identify factual phrases in utterance and improve the generation results significantly by rewriting with information with grounded knowledge. This work is done during the summer internship at Tencen AI Lab supervised by Dr. Kun Xu.
 
 ## Joint Intent Detection and Slot Filling for Spoken Language Understanding
 
