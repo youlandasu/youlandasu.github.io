@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Awards
 
+- Outstanding Graduate Teaching Assistant Award of the School of Electrical & Computer Engineering, Georgia Tech
+
 - Second prize in the poster category at Symposium of Natural Language, Dialogue and Speech, New York Academy of Sciences
 
 - Honor Graduation from Harbin Institute of Technology (top 1%)
