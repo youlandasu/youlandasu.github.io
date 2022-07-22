@@ -3,6 +3,13 @@ layout: page
 title: Selected Projects
 permalink: /projects/
 ---
+## Zero-Shot Dialogue State Tracking with Choice Fusion
+
+The predictions of dialogue states are enhanced in unseen domains based on pre-trained T5 leveraging domain-agnostic training, which fuses candidate choices as knowledge efficiently and achieves outperformed joint goal accuracy on MultiWOZ.
+
+##  Cross-Lingual Commonsense Knowledge Transfer
+
+We develop a three-step model based on XLM-R to minimize the performance gap between English and non-English languages for commonsense question-answering tasks by differentiating language-specific knowledge from commonsense knowledge; improve foreign languages on commonsense reasoning benchmarks.
 
 ## Act-Aware Dialogue State Tracking for Multi-Domain Task-Oriented Dialogues
 
