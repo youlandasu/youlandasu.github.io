@@ -13,7 +13,7 @@ We develop a three-step model based on XLM-R to minimize the performance gap bet
 
 ## Act-Aware Dialogue State Tracking for Multi-Domain Task-Oriented Dialogues
 
-We incorporate dialogue acts to predict categorical and non-categorical slots for ``multi-domain dialogue state tracking (DST)`` leveraging machine reading comprehension approaches. Experimental results demonstrate the overall accuracy improvement on ``MultiWOZ 2.1`` dialogue dataset with reasoning on dialogue states and scalability to new domain ontology.
+We incorporate dialogue acts to predict categorical and non-categorical slots for ``multi-domain dialogue state tracking (DST)`` leveraging machine reading comprehension approaches. Experimental results demonstrate the overall accuracy improvement on ``MultiWOZ 2.1`` dialogue dataset with reasoning on dialogue states and scalability to new domain ontology. [[Paper](https://www.isca-speech.org/archive/interspeech_2021/su21_interspeech.html)] [[Code](https://github.com/youlandasu/ACT-AWARE-DST)]
 
 ## Factual Correction for Knowledge-Driven Dialogues
 
